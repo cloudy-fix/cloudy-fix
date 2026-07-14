@@ -4,7 +4,7 @@ Cloud engineer focused on AWS, Google Cloud, cloud networking, DevOps automation
 
 [Portfolio](https://cloudy-fix.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/hariharan-j-2a909a290/) | [GitHub](https://github.com/cloudy-fix) | [Email](mailto:jhariharancse@gmail.com)
 
-## Interview Snapshot
+
 
 - AWS Certified Cloud Practitioner with AWS re/Start Cloud Practitioner recognition through TN Skill Corporation.
 - Google Cloud Associate Cloud Engineer with hands-on exposure to IAM, Compute Engine, Cloud Storage, Cloud DNS, Cloud SQL, GKE, VPC, firewall rules, and load balancing workflows.
