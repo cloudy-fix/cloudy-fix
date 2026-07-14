@@ -1,0 +1,128 @@
+﻿{
+    "visibility":  "Public",
+    "sample":  {
+                   "projects":  [
+                                    {
+                                        "url":  "https://cloudy-fix.github.io/task-manager-api/",
+                                        "domain":  "Backend",
+                                        "name":  "Task Manager API",
+                                        "reason":  "FastAPI, Docker, JWT"
+                                    },
+                                    {
+                                        "url":  "https://cloudy-fix.github.io/secure-warehouse-management-system/",
+                                        "domain":  "Security",
+                                        "name":  "Secure Warehouse",
+                                        "reason":  "Full-stack secured operations"
+                                    },
+                                    {
+                                        "url":  "https://cloudy-fix.github.io/API-AVI-AUTOMATION/",
+                                        "domain":  "Cloud",
+                                        "name":  "API AVI Automation",
+                                        "reason":  "VMware AVI API workflows"
+                                    },
+                                    {
+                                        "url":  "https://cloudy-fix.github.io/pii_challenge/",
+                                        "domain":  "Security",
+                                        "name":  "PII Challenge",
+                                        "reason":  "Privacy detection and redaction"
+                                    },
+                                    {
+                                        "url":  "https://cloudy-fix.github.io/aave-v2-wallet-credit-scoring/",
+                                        "domain":  "DeFi",
+                                        "name":  "Aave Credit Scoring",
+                                        "reason":  "On-chain wallet scoring"
+                                    },
+                                    {
+                                        "url":  "https://cloudy-fix.github.io/Admission-counselor-LLM-with-API/",
+                                        "domain":  "AI",
+                                        "name":  "Admission Counselor LLM",
+                                        "reason":  "LLM advisory workflow"
+                                    }
+                                ],
+                   "strengths":  [
+                                     "AWS and GCP",
+                                     "Backend APIs",
+                                     "Cloud automation",
+                                     "AI compliance",
+                                     "Security",
+                                     "DeFi scoring"
+                                 ]
+               },
+    "category":  "Profile / Interview Command Center",
+    "accent":  "#2563eb",
+    "runtime":  "This static GitHub Pages surface turns the profile repo into a reviewer command center with filtered project paths and production documentation links.",
+    "docs":  [
+                 {
+                     "label":  "Repository",
+                     "url":  "https://github.com/cloudy-fix/cloudy-fix",
+                     "note":  "Source, commits, issues, and project files"
+                 },
+                 {
+                     "label":  "Architecture",
+                     "url":  "https://github.com/cloudy-fix/cloudy-fix/blob/main/docs/ARCHITECTURE.md",
+                     "note":  "System design and responsibilities"
+                 },
+                 {
+                     "label":  "Operations",
+                     "url":  "https://github.com/cloudy-fix/cloudy-fix/blob/main/docs/OPERATIONS.md",
+                     "note":  "Runbook and deployment notes"
+                 },
+                 {
+                     "label":  "Workflow Diagram",
+                     "url":  "https://github.com/cloudy-fix/cloudy-fix/blob/main/docs/diagrams/workflow.mmd",
+                     "note":  "End-to-end process map"
+                 },
+                 {
+                     "label":  "Architecture Diagram",
+                     "url":  "https://github.com/cloudy-fix/cloudy-fix/blob/main/docs/diagrams/architecture.mmd",
+                     "note":  "Component-level diagram"
+                 }
+             ],
+    "repo":  "cloudy-fix",
+    "links":  {
+                  "pages":  "https://cloudy-fix.github.io/cloudy-fix/",
+                  "portfolio":  "https://cloudy-fix.github.io/portfolio/projects.html",
+                  "repo":  "https://github.com/cloudy-fix/cloudy-fix"
+              },
+    "stack":  [
+                  "GitHub Profile README",
+                  "Markdown",
+                  "Project Routing",
+                  "Cloud Interview Positioning",
+                  "Documentation"
+              ],
+    "metrics":  [
+                    {
+                        "label":  "Project Map",
+                        "detail":  "Portfolio repo excluded from this page rollout",
+                        "value":  "17 repos"
+                    },
+                    {
+                        "label":  "Domains",
+                        "detail":  "Also security, DeFi, automation, privacy",
+                        "value":  "Cloud, AI, Backend"
+                    },
+                    {
+                        "label":  "Review Mode",
+                        "detail":  "Fast links to production repos",
+                        "value":  "Interview Ready"
+                    }
+                ],
+    "accentTwo":  "#16a34a",
+    "highlights":  [
+                       "Routes reviewers to the strongest repo by domain",
+                       "Summarizes AWS, GCP, IBM, backend, and security proof points",
+                       "Connects profile story with live project pages"
+                   ],
+    "title":  "Hariharan J GitHub Profile",
+    "components":  [
+                       "Profile README",
+                       "Project taxonomy",
+                       "GitHub Pages live workspace",
+                       "Architecture links",
+                       "Interview routing"
+                   ],
+    "demoType":  "profile",
+    "mission":  "A production-style profile hub for cloud, AWS, Google Cloud, IBM, backend, AI, security, and automation interviews.",
+    "path":  "D:\\Hari docs\\cloudy-fix"
+}
